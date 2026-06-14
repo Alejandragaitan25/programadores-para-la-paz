@@ -1,0 +1,10 @@
+El servidor recibe datos en formato JSON mediante una petición POST a /registro.
+
+Responde con un objeto JSON que confirma la recepción de los datos.
+
+Ejemplo de respuesta:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}

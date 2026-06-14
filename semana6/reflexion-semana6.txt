@@ -1,0 +1,5 @@
+Es importante que las plataformas tecnologicas reciban informacion de los ciudadanos por que permiten mejorar la atencion de problemas en la comunidad.
+Esto ayuda a reportar fallas en servicios publicos en tiempo real.
+Tambien organiza la informacion de forma estructurada usando JSON.
+Permite tomar decisiones mas rapidas.
+Promueve la participacion comuniutaria y ayuda a crear ciudades mas organizadas y seguras.
