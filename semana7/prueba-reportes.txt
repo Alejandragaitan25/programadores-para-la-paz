@@ -1,0 +1,3 @@
+Cuando se usa GET /reportes se muestran todos los reportes guardados en memoria. 
+Si no hay reportes aparece un arreglo vacío []. 
+Después de usar POST, los reportes se almacenan y aparecen en la respuesta del GET.
