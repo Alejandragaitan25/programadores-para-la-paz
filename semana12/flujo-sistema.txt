@@ -1,0 +1,5 @@
+Un ciudadano crea una causa en la plataforma.
+La causa queda registrada en la base de datos.
+Otros ciudadanos apoyan la causa.
+El sistema registra y cuenta los apoyos recibidos.
+El sistema genera un documento PDF con la petición para ser presentada.
